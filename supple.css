@@ -1,11 +1,11 @@
 ::selection {
-  background: #111;
-  color: pink;
+  background: aquamarine;
+  color: #202;
 }
 
 :root {
-  color: #111;
-  background: pink;
+  color: aquamarine;
+  background: #202;
 }
 
 :any-link {
